@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{EF693033-DA53-4708-9422-D788A33580A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Product.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="12" Column="37" />
+      <File FileName="appsettings.json" Line="3" Column="25" />
+      <File FileName="Controllers/CategoryController.cs" Line="69" Column="1" />
+      <File FileName="Models/Category.cs" Line="2" Column="20" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ProductController.cs" Line="65" Column="80" />
+      <File FileName="Models/Product.cs" Line="18" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication" expanded="True">
+            <Node name="WebApplication" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Product.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApplication PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
